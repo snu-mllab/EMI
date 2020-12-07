@@ -58,6 +58,9 @@ A non-virtual machine with the following components:
       python examples/trpo_emi_atari.py
 * The first run will end with no operations other than creating a config. Run the command again if you see the configuration message.
 
+## Acknowledgements
+
+This work was partially supported by Samsung Advanced Institute of Technology and Institute for Information & Communications Technology Planning & Evaluation (IITP) grant funded by the Korea government (MSIT) (No.2019-0-01367, BabyMind).
 
 ## License
 
